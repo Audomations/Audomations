@@ -1,1 +1,1 @@
-![https://github-readme-stats.vercel.app/api?username=audomations&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=audomations&show_icons=true&count_private=true&hide_border=true)
+![](https://cdn3.emoji.gg/emojis/8444-sparkles.png) NOTE: I am still in revamp in editing my about me.
