@@ -5,6 +5,8 @@
   ### coding since 2018
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/702204920132009984?theme=dark&bg=0011cc&idleMessage=You%20will%20rarely%20see%20me%20with%20an%20activity.%20Good%20Luck%20:D)](https://discord.com/users/702204920132009984)
+  
+  [![Replit Profile Card](https://replit.com/cdn-cgi/image/quality=80,metadata=copyright,format=auto/https://volcron-api.ironcladdev.repl.co/rank/ReplitConcepts.png)](https://replit.com/@ReplitConcepts)
 </div>
 
 ## About me
