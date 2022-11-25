@@ -7,7 +7,7 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/702204920132009984?theme=dark&bg=0011cc&idleMessage=You%20will%20rarely%20see%20me%20with%20an%20activity.%20Good%20Luck%20:D)](https://discord.com/users/702204920132009984)
   <img src="https://replit.com/cdn-cgi/image/quality=80,metadata=copyright,format=auto/https://volcron-api.ironcladdev.repl.co/rank/ReplitConcepts.png" width="420">
   
-  <img src="https://photopcards.flurriyt.repl.co/card?uid=621cf9c163790d5ac3c2f938&cache" width="450">
+  <img src="https://photopcards.flurriyt.repl.co/card/621cf9c163790d5ac3c2f938" width="450">
 </div>
 
 ## About me
